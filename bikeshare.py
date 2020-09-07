@@ -33,7 +33,7 @@ def get_filters():
             break
 
 
-    # TO DO: get user input for month (all, january, february, ... , june)
+    # TO DO: Get user input for month (all, january, february, ... , june)
 
     while True:
         try:
